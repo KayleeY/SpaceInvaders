@@ -1,16 +1,12 @@
-# CS 349 W20 Assignment 1
-
-Boshu Yang
-20657347 b62yang
 openjdk version "11.0.5" 2019-10-15
-macOS 10.15 
-MacBook Air (Retina, 13-inch, 2019)
 
-Images and Sounds are from the ones provided in A2.
+Start the game by pressing ENTER
 
-I didn't use the green alien as I think it doesn't look good lol. 
+Movements are controled by -> <-
 
-I added a hot key in the game scene. Pressing ESCAPE while playing the game will display the pause scene.
+Emit bullets by pressing SPACE
 
-User can continue the game(By pressing Enter) or Quit the game(By pressing Q) in the pause scene.
+Hot key added to pause the game pressing ESC, continue by pressing ENTER or quit the game by Pressing Q.
+
+
 
